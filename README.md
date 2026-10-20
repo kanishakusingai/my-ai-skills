@@ -1,33 +1,22 @@
 # 🧠 My AI Skills Collection
 
-A curated personal collection of custom and high-quality AI coding agent skills.
-
-These skills extend and supercharge AI assistants (such as Antigravity, Kiro, Claude Code, Cursor, Codex, and Copilot) with specialized instructions, playbooks, and architectural guidance.
+A clean personal collection of custom AI coding agent skills.
 
 ---
 
-## 📦 Included Skills
+## 🚀 How to Add Your Own Skill
 
-| Skill | Category | Description |
-|---|---|---|
-| **`ui-taste`** | Frontend & UI/UX | Eliminates generic "AI slop". Enforces visual polish, hierarchy, spacing, and modern design standards for web and iOS interfaces. |
-| **`ios-design`** | Mobile Design | High-fidelity iOS UI/UX guidance using Apple Human Interface Guidelines, SwiftUI, UIKit, and React Native. |
-
----
-
-## 🚀 How to Add a New Skill
-
-1. Create a new folder inside `skills/` with your skill name:
+1. Create a folder inside `skills/` with your skill name:
    ```text
    skills/
-   └── my-new-skill/
+   └── my-skill-name/
        └── SKILL.md
    ```
 
-2. Format your `SKILL.md`:
+2. Format your `SKILL.md` with:
    ```markdown
    ---
-   name: my-new-skill
+   name: my-skill-name
    description: When and why the AI agent should use this skill.
    ---
 
@@ -35,18 +24,9 @@ These skills extend and supercharge AI assistants (such as Antigravity, Kiro, Cl
    Write your prompt instructions, rules, and best practices here.
    ```
 
-3. Commit and save:
+3. Commit and push:
    ```bash
    git add .
-   git commit -m "Add my-new-skill"
+   git commit -m "Add my-skill-name"
+   git push
    ```
-
----
-
-## 📥 How to Install Skills from This Collection
-
-To install any skill from this repository into any project or machine:
-
-```bash
-npx skills add <path-or-github-url> --skill <skill-name>
-```
