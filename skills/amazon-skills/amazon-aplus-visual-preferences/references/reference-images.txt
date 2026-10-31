@@ -1,0 +1,26 @@
+OMSHRIM A+ VISUAL STYLE — BUNDLED REFERENCE IMAGES
+
+The actual JPG files are bundled with the skill, so this package can be copied to another coding agent or machine. This text file is an index; the images themselves are separate JPG files, not embedded in Notepad text. Start with the six featured images in the images folder, and browse relevant product folders under images/all-aplus for the full exported sets.
+
+01-oil-hero-desktop.jpg — Oil sprayer desktop hero: bold headline, lifestyle scene, product focal point, and simple use visuals.
+02-oil-pour.jpg — Oil sprayer pouring: one clear feature, a short label and a meaningful product demonstration.
+03-oil-hero-mobile.jpg — Oil sprayer mobile hero: visually distinct composition for the same product story.
+04-sharpener-stages.jpg — Knife sharpener: three product-specific stages highlighted with short labels.
+05-sharpener-grip.jpg — Knife sharpener: prominent product and short headline highlighting the handle.
+06-mop-feature-callouts.jpg — Mini mop: compact design and one sponge head highlighted with pointers to the relevant parts.
+
+These images show a visual direction, not a template to repeat. Do not copy their specific product, brand claims, capacities, colours, or quantities into a different product. Use verified facts and correct product references for the new listing. Use real product photographs where required by the Amazon A+ workflow.
+
+FULL EXPORTED A+ IMAGE SETS (images/all-aplus/)
+
+oil-sprayer — 17 images.
+vacuum-current-one-battery — 15 images.
+vacuum-earlier-two-batteries-superseded — 15 earlier images. The seller confirmed the vacuum has one battery; this older set shows the wrong quantity and may include other superseded details. Style reference only.
+speaker-lamp-current — 14 images.
+speaker-lamp-earlier — 10 earlier images.
+ocean-wave-lamp — 22 images.
+knife-sharpener — 15 images.
+mini-mop-feature-revision — 15 revised image concepts.
+mini-mop-earlier — 15 earlier image concepts.
+
+These are copied exported image sets and earlier versions, not original product photographs. Some are unverified concepts or contain superseded product details. Check the current seller-confirmed product facts and package contents independently. Brand Story artwork and Store headers are separate from these A+ sets.
