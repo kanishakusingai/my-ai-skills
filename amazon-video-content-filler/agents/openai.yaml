@@ -1,0 +1,4 @@
+interface:
+  display_name: "Amazon Video Content Filler"
+  short_description: "Prepare verified Amazon video upload fields"
+  default_prompt: "Use $amazon-video-content-filler to prepare the Seller Central upload fields for my product video."

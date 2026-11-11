@@ -1,0 +1,4 @@
+interface:
+  display_name: "Amazon Seller MCP"
+  short_description: "Use Amazon seller tools and verify the results"
+  default_prompt: "Use $amazon-seller-mcp to choose the right Amazon tool and complete my seller task."

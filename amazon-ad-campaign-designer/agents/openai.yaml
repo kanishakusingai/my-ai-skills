@@ -1,0 +1,4 @@
+interface:
+  display_name: "Amazon Ad Campaign Designer"
+  short_description: "Plan Amazon India campaigns and keyword files"
+  default_prompt: "Use $amazon-ad-campaign-designer to design an Amazon India campaign plan from my listing and keyword data."

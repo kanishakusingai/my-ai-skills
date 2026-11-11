@@ -1,0 +1,4 @@
+interface:
+  display_name: "Omshrim Product Listing"
+  short_description: "Draft and verify OMSHRIM listings on Amazon.in"
+  default_prompt: "Use $omshrim-product-listing to prepare my Amazon.in listing from the product details and photos."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Amazon A+ Image Preferences"
+  short_description: "Apply product-accurate A+ visual preferences"
+  default_prompt: "Use $amazon-a-plus-content-image-preference to draft product-accurate, mobile-readable A+ image concepts."
