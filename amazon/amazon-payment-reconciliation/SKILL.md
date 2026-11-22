@@ -1,13 +1,13 @@
 ---
 name: amazon-payment-reconciliation
-description: Reconcile Amazon.in seller proceeds, deductions, payouts, available and deferred balances, SKU units and return charges. Use for payment audits, Excel reconciliation reports, money still receivable, or explaining a particular charge.
+description: Reconcile Amazon.in seller proceeds, deductions, payouts, available and deferred balances, SKU units and return charges. Use for payment audits, repeatable Excel financial reports with an offline HTML dashboard and return-charge audit, money still receivable, or explaining a particular charge.
 ---
 
 # Reconcile Amazon.in seller payments
 
 Use the sibling OMSHRIM seller context when available. State the reporting period, as-of date and currency (INR). Use India time for date boundaries. Account proceeds measure money posted to the seller account. Calculating profit also requires the seller's costs.
 
-For a single charge, start with the order or transaction and explain the relevant line. For a payout question, match the settlement group and transfer status. For a full audit, build the ledger and workbook below. Distinguish what Amazon reports as transferred from what the seller's bank statement confirms as credited.
+For a single charge, start with the order or transaction and explain the relevant line. For a payout question, match the settlement group and transfer status. For a full audit, build the ledger below and follow [the repeat financial report format](references/full-report.md) for the workbook, offline dashboard and return-charge audit. Distinguish what Amazon reports as transferred from what the seller's bank statement confirms as credited.
 
 ## Collect evidence for the requested period
 
